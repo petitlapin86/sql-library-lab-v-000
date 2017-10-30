@@ -5,5 +5,5 @@ title TEXT
 
 CREATE TABLE subgenres (
 id INTEGER PRIMARY KEY,
-title TEXT
+name TEXT
 );
