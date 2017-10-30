@@ -25,3 +25,8 @@ name TEXT,
 species TEXT,
 motto TEXT
 );
+
+CREATE TABLE character_books (
+id INTEGER PRIMARY KEY,
+
+);
