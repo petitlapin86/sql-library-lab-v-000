@@ -25,5 +25,3 @@ name TEXT,
 species TEXT,
 motto TEXT
 );
-
-
