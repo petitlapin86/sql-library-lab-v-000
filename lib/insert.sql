@@ -26,4 +26,3 @@ INSERT INTO subgenres (id, name) VALUES
 INSERT INTO authors (id, name) VALUES
 (1, "Dr.Geiss"),
 (2, "Nancy Fitzrap");
-
