@@ -22,3 +22,8 @@ INSERT INTO characters (id, name, species, motto, series_id, author_id) VALUES
 INSERT INTO subgenres (id, name) VALUES
 (1, "Rabbit Lore"),
 (2, "Fantasy");
+
+INSERT INTO authors (id, name) VALUES
+(1, "Dr.Geiss"),
+(2, "Nancy Fitzrap");
+
